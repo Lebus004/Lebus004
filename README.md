@@ -1,4 +1,4 @@
-# Hi, I'm Loic 👋
+# Hi, I'm Loic Bösch👋
 
 Business Information Technology graduate with a focus on Data Analytics, 
 Software Development and Digitalization.
@@ -13,7 +13,7 @@ Software Development and Digitalization.
 
 ## Selected Projects
 
-### 🚗 CarRental FHNW
+### 🚗 CarRental
 Software engineering project for managing rental cars and bookings.
 
 ### 🚀 Space Wars
