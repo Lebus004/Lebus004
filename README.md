@@ -14,10 +14,10 @@ Software Development and Digitalization.
 ## Selected Projects
 
 ### 🚗 [CarRental](https://github.com/Lebus004/CarRental)
-Software engineering project for managing rental cars and bookings.
+Full-stack software engineering project covering requirements, system design, REST API development and frontend integration for managaing rental cars and bookings.
 
 ### 🚀 [Space Wars](https://github.com/Lebus004/Space-Wars)
-Python/Pygame game featuring PvP and PvE game modes.
+Python/Pygame game featuring PvP and PvE modes, built around a single-window architecture and central game loop.
 
 ## Technologies
 
