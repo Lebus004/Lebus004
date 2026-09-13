@@ -9,7 +9,7 @@ Software Development and Digitalization.
 - 📊 Focus on Data Analytics
 - 🐍 Python & Data Science
 - 💻 Software Development
-- 🚀 Interested in digital solutions and business technology
+- 🚀 Interested in digital solutions, knowledge management and business technology
 
 ## Selected Projects
 
